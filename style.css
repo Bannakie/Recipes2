@@ -1,13 +1,76 @@
-h1{
-    color: blue;
-    text-align: center;
-    
+
+body{ margin: 2.0em;
 
 }
 
 
 
 
+.black{color: black}
+
+.container{
+    width: 100%;
+    height:90%;
+    margin: 0 auto;
+
+}
 
 
-p {color: red;
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 60;
+    margin: 50;
+    font-family: 'Cookie', cursive;
+    h1 :class="animate__animated animate__bounce"
+    
+
+
+}
+
+p{
+    color:cornflowerblue;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+ }
+
+
+ #types {
+     color: black;
+ }
+
+
+ #chart{
+     width: 100%;
+     
+ }
+
+
+ footer {
+	background-color: gray;
+	position: absolute;
+	width: 100%;
+	height: auto;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	float: right;
+	
+}
+
+footer p {
+	float: left;
+}
+
+footer a,
+footer p {
+
+	color:#fff;
+	vertical-align: middle;
+
+
+}
