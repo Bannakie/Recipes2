@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\restaurants"
+		},
+		{
+			"path": "..\\html_basics"
+		},
+		{
+			"path": "..\\resume"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "First HTML"
+	}
+}
